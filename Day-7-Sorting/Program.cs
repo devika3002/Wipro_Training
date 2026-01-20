@@ -94,7 +94,7 @@ namespace Sorting_and_searching_techniques
         // MAIN METHOD
         static void Main(string[] args)
         {
-            //  COUNT SORT DEMO
+            //  COUNT SORT 
             int[] marks = { 78, 95, 45, 30, 60, 95, 99, 95 };
 
             Console.WriteLine("Original marks array for Count Sort:");
