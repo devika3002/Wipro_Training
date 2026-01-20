@@ -99,7 +99,7 @@ namespace OrderSystem
         }
     }
 
-    // Program entry point
+    // Program entry point.
     class Program
     {
         static void Main(string[] args)
