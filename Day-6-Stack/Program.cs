@@ -20,7 +20,7 @@ namespace Demo_Collection_stack_queue
             //check if the stack contains a specific value
             bool contains20 = stack.Contains(20);
             Console.WriteLine("Stack contains 20:" + contains20);
-            //Display the current count of items in the stack
+            //Display the current count of items in the stack.
             int count = stack.Count;
             Console.WriteLine("Current Count:"+ count);
             //clear the stack
