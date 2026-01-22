@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../SolidReportingSystem.Tests/SolidReportingSystem.Tests.csproj" />
+  <Project Path="SolidReportingSystem.csproj" />
+</Solution>
