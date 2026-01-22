@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../SecureUserLibrary.Tests/SecureUserLibrary.Tests.csproj" />
+  <Project Path="SecureUserLibrary.csproj" />
+</Solution>
