@@ -1,0 +1,5 @@
+[
+    {"name": "Water Service", "desc": "Water supply issues"},
+    {"name": "Electricity Service", "desc": "Power related problems"},
+    {"name": "Road Service","desc": "Road repair issues"}
+]
